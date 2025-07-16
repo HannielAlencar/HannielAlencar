@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu perfil! 👋
  
-# Olá, me chamo Hanniel! 
+# Olá, eu sou o Hanniel! 
 
 Quem sou eu?
 Sou um entusiasta da Engenharia de Software e estou no início da minha jornada acadêmica na UNICEPLAC, onde comecei meus estudos no início de 2024. Admiro o processo de transformar ideias em linhas de código funcionais e, mais ainda, o aprendizado contínuo que cada novo desafio de programação me proporciona. A cada dia, sinto que os códigos me dão um novo conhecimento, e é essa descoberta constante que me mantém motivado.
