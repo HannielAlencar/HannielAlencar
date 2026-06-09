@@ -25,7 +25,7 @@ Sou estudante de Engenharia de Software na UNICEPLAC e atuo como Estagiário de 
 ## Contatos:
 
 <div>
-  <a href="https://www.linkedin.com/in/hanniel-alencar-14943b243/" target="_blank">
+  <a href="https://www.linkedin.com/in/hanniel-alencar-14943b243/](https://www.linkedin.com/in/hanniel-alencar-14943b243/?skipRedirect=true" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>  
   <a href="mailto:hannielsantos73@gmail.com" target="_blank">
