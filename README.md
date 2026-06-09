@@ -27,7 +27,7 @@ Sou um estudante de Engenharia de Software e estou no início da minha jornada a
   <a href="mailto:hannielsantos73@gmail.com" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/hanniel-santos-de-alencar-14943b243/" target="_blank">
+  <a href="[https://www.linkedin.com/in/hanniel-santos-de-alencar-14943b243/](https://www.linkedin.com/in/hanniel-alencar-14943b243/?skipRedirect=true)" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>   
 </div>
